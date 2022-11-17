@@ -1,0 +1,3 @@
+[submodule "flicker_scraper"]
+	path = flicker_scraper
+	url = https://github.com/ultralytics/flickr_scraper.git
